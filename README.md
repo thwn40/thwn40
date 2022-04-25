@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🛠 Skills
+***
+https://img.shields.io/badge/java-JAVA-Green?logo=Java
+https://img.shields.io/badge/java-SpringBoot-Green?logo=SpringBoot
+https://img.shields.io/badge/java-Spring-Green?logo=Spring
+https://img.shields.io/badge/java-JPA-Green??logo=Hibernate
+https://img.shields.io/badge/java-MySQL-Green?logo=MySQL
+https://img.shields.io/badge/java-QueryDSL-Green
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thwn40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thwn40&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
